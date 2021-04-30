@@ -1,5 +1,5 @@
-<h1 >Hi 👋, I'm Zach</h1>
-<h3 >A passionate frontend developer from Texas</h3>
+# Hi 👋, I'm Zach
+## A passionate frontend developer from Texas
 
 ![brewhousedigital](https://komarev.com/ghpvc/?username=brewhousedigital&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -106,4 +106,3 @@
 ![brewhousedigital](https://github-readme-stats.vercel.app/api?username=brewhousedigital&show_icons=true&locale=en)
 
 ![brewhousedigital](https://github-readme-streak-stats.herokuapp.com/?user=brewhousedigital&)
-
