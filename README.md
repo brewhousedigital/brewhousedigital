@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source 11ty Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.zachvoss.com/projects/](https://www.zachvoss.com/projects/)
+- 👨‍💻 All of my projects are available at [https://www.zachvoss.com](https://www.zachvoss.com)
 
 - 💬 Ask me about **11ty, PHP, and NodeJS!**
 
