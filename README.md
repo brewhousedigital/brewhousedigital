@@ -13,7 +13,9 @@
 - 💬 Ask me about **11ty, PHP, and NodeJS!**
 
 ### Connect with me:
+
 [LinkedIn](https://linkedin.com/in/zachary-voss-65a94b92)
+
 [Stack Overflow](https://stackoverflow.com/users/5253664)
 
 
