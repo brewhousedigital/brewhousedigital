@@ -26,5 +26,3 @@
 ![brewhousedigital](https://github-readme-stats.vercel.app/api/top-langs?username=brewhousedigital&show_icons=true&locale=en&layout=compact)
 
 ![brewhousedigital](https://github-readme-stats.vercel.app/api?username=brewhousedigital&show_icons=true&locale=en)
-
-![brewhousedigital](https://github-readme-streak-stats.herokuapp.com/?user=brewhousedigital&)
