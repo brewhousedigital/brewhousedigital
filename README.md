@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Celestial Framework](https://www.zachvoss.com/projects/celestial-framework/)
 
-- 👯 I’m looking to collaborate on **Open Source 11ty Projects**
+- 👯 I’m looking to collaborate on **Open Source 11ty and SvelteKit Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.zachvoss.com](https://www.zachvoss.com)
 
