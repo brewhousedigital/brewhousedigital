@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.zachvoss.com](https://www.zachvoss.com)
 
-- 💬 Ask me about **11ty, PHP, and NodeJS!**
+- 💬 Ask me about **11ty, Svelte, React, PHP, Go, and NodeJS!**
 
 ### Connect with me:
 
