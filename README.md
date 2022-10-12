@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[LinkedIn](https://linkedin.com/in/zachary-voss-65a94b92)
+[LinkedIn](https://www.linkedin.com/in/zach-voss-65a94b92/)
 
 [Stack Overflow](https://stackoverflow.com/users/5253664)
 
